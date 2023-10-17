@@ -1,0 +1,15 @@
+C:/Users/DELL.SXM10/Desktop/ITI/Labs/seq_multiplier.v {1 {vlog -work work C:/Users/DELL.SXM10/Desktop/ITI/Labs/seq_multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module seq_multiplier
+
+Top level modules:
+	seq_multiplier
+
+} {} {}} C:/Users/DELL.SXM10/Desktop/ITI/Labs/seq_multiplier_tb.v {1 {vlog -work work C:/Users/DELL.SXM10/Desktop/ITI/Labs/seq_multiplier_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module seq_multiplier_tb
+
+Top level modules:
+	seq_multiplier_tb
+
+} {} {}}
