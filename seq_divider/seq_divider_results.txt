@@ -1,0 +1,13 @@
+-- test case 1
+a= -8, b= 2, error signal is as expected, , busy signal is as expected, , valid signal is as expected, , m= -4, r= 0, busy signal is as expected, , valid signal is as expected, , m signal is as expected, , r signal is as expected, 
+-- test case 2
+a= 4, b= 3, error signal is as expected, , busy signal is as expected, , valid signal is as expected, , m= 1, r= 1, busy signal is as expected, , valid signal is as expected, , m signal is as expected, , r signal is as expected, 
+-- test case 3
+a= -4, b= -2, error signal is as expected, , busy signal is as expected, , valid signal is as expected, , m= 2, r= 0, busy signal is as expected, , valid signal is as expected, , m signal is as expected, , r signal is as expected, 
+-- test case 4
+a= -5, b= -2, error signal is as expected, , busy signal is as expected, , valid signal is as expected, , m= 2, r= 1, busy signal is as expected, , valid signal is as expected, , m signal is as expected, , r signal is as expected, 
+-- test case 5
+a= -5, b= 2, error signal is as expected, , busy signal is as expected, , valid signal is as expected, , m= -2, r= 1, busy signal is as expected, , valid signal is as expected, , m signal is as expected, , r signal is as expected, 
+-- test case 6
+a= -5, b= 0, error signal is as expected, , busy signal is as expected, , valid signal is as expected, , m= 0, r= 0, busy signal is as expected, , valid signal is as expected, , m signal is as expected, , r signal is as expected, 
+The total number of passed testcases as a ratio from the total testcases is: 6/6
